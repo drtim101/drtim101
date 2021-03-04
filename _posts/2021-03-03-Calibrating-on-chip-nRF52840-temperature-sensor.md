@@ -7,7 +7,7 @@ categories: jekyll update
 
 # About
 
-I want some simple wireless temperature sensors to fulfil various domestic applications such as providing inputs to the house central heating control and logging ferment temperature while brewing. I have various Nordic BLE MCUs that have onboard (die) temperature sensors. How accurate are these? Starting with nRF52840 dongle modules.
+I want some simple wireless temperature sensors to use in various domestic applications such as providing inputs to the house central heating control and logging ferment temperature while brewing. I have various Nordic BLE MCUs that have onboard (die) temperature sensors. How accurate are these? Starting with nRF52840 dongle modules.
 
 ## Methods
 
