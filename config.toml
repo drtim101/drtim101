@@ -1,0 +1,4 @@
+baseURL = 'https://drtim101.github.io/'
+languageCode = 'en-uk'
+title = 'My New Hugo Site'
+theme = 'ananke'
