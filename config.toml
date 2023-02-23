@@ -1,4 +1,4 @@
 baseURL = 'https://drtim101.github.io/'
 languageCode = 'en-uk'
-title = 'My New Hugo Site'
+title = "DrTim's git website"
 theme = 'ananke'
