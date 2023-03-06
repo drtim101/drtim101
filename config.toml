@@ -1,6 +1,6 @@
 baseURL = 'https://drtim101.github.io/'
 languageCode = 'en-uk'
-title = "DrTim's git website"
+title = "DrTim 101"
 theme = 'ananke'
 resourceDir = "../resources"
 
