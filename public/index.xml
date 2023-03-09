@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr Tim101 on New Dr Tim Site</title>
+    <link>https://drtim101.github.io/</link>
+    <description>Recent content in Dr Tim101 on New Dr Tim Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 02 Mar 2023 16:16:59 +0000</lastBuildDate><atom:link href="https://drtim101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test image</title>
+      <link>https://drtim101.github.io/posts/fifth_post/</link>
+      <pubDate>Thu, 02 Mar 2023 16:16:59 +0000</pubDate>
+      
+      <guid>https://drtim101.github.io/posts/fifth_post/</guid>
+      <description>The pope image is stored in /static/images ie in parent folder to content/ Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
+The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
+  </channel>
+</rss>
