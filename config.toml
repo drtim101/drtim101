@@ -1,0 +1,7 @@
+baseURL = "https://drtim101.github.io/"
+languageCode = "en-uk"
+title = "New Dr Tim Site"
+theme = "ananke"
+resourceDir = "../resources"
+SectionPagesMenu = "main"
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
