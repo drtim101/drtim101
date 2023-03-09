@@ -1,7 +1,7 @@
 ---
 title: "Blogging"
 date: 2023-03-09T21:47:08Z
-featured_image: "blog.jpg"
+featured_image: "blog2.jpg"
 draft: false
 ---
 
@@ -17,4 +17,4 @@ So usng github and Hugo I created a blog. As to why I chose Hugo over Jekyll and
 
 Visit the [Hugo](https://gohugo.io) website!
 
-![blog image local to this folder](blog.jpg)
+![blog image local to this folder](blog2.jpg)
