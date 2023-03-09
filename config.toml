@@ -1,6 +1,6 @@
 baseURL = "https://drtim101.github.io/"
 languageCode = "en-uk"
-title = "New Dr Tim Site"
+title = "Dr Tim101"
 theme = "ananke"
 resourceDir = "../resources"
 SectionPagesMenu = "main"

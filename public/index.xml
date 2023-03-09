@@ -6,7 +6,17 @@
     <description>Recent content in Dr Tim101 on New Dr Tim Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 02 Mar 2023 16:16:59 +0000</lastBuildDate><atom:link href="https://drtim101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Mar 2023 17:32:05 +0000</lastBuildDate><atom:link href="https://drtim101.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://drtim101.github.io/posts/first_post/</link>
+      <pubDate>Thu, 09 Mar 2023 14:52:30 +0000</pubDate>
+      
+      <guid>https://drtim101.github.io/posts/first_post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text. The notebook image is stored in content/images/
+Visit the Hugo website!</description>
+    </item>
+    
     <item>
       <title>Test image</title>
       <link>https://drtim101.github.io/posts/fifth_post/</link>

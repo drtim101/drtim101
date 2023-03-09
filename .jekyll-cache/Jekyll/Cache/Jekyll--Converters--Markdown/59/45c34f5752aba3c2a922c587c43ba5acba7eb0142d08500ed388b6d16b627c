@@ -1,0 +1,20 @@
+I"Ø<h1 id="about">About</h1>
+
+<p>I want some simple wireless temperature sensors to use in various domestic applications such as providing inputs to the house central heating control and logging ferment temperature while brewing. I have various Nordic BLE MCUs that have onboard (die) temperature sensors. How accurate are these? Starting with nRF52840 dongle modules.</p>
+
+<h2 id="methods">Methods</h2>
+
+<ul>
+  <li>Two wireless MCUs one with external temperature sensor, one without.</li>
+  <li>Each is programmed to connect to a central basestation that periodically requests temperature readings from each.</li>
+  <li>Both devices are located in close proximity.</li>
+  <li>Readings are taken every 6 minutes and logged over a 48 hour period.</li>
+  <li>The results are plotted in an XY graph and the correlation / regression line calculated.</li>
+  <li>The accuracy of the external sensor is ..</li>
+</ul>
+
+<h2 id="results">Results</h2>
+
+<p><img src="/assets/images/dog.jpg" /></p>
+
+:ET
