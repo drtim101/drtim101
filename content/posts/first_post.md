@@ -1,7 +1,7 @@
 ---
 title: "First_post"
 date: 2023-03-09T14:52:30Z
-draft: true
+draft: false
 featured_image: '/images/notebook.jpg'
 ---
 
